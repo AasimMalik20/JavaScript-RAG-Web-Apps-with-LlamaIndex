@@ -1,0 +1,13 @@
+I started college in 2019, fresh out of high school. At 19, I didn't have much experience in computer science.
+
+I was born in Kashmir and finished high school there in December 2018. In 2019, I began college in Chennai. Initially, it was challenging due to the new environment and significant differences from my previous educational experience. However, after the first year, I adapted to their learning methods and excelled academically.
+
+After my first semester, COVID-19 hit, which had a significant impact on my learning. I found myself becoming more self-reliant. While I was familiar with subjects like English and math, I found the curriculum lacking. To compensate, I started learning full-stack development on my own. By the end of the second semester, I had completed some projects, though I didn't enjoy them much.
+
+In my second year, someone suggested I try Linux, which marked the beginning of my Linux journey. I started with basic commands and small projects, progressing over six months. I discovered a website called Kode-Kloud Engineer which focused on Linux & DevOps, where I learned various Linux-based activities. Initially, I was a Linux system administrator, solving problems for about a year. As I advanced, I learned about Docker, Kubernetes, Chef, Puppet, and Ansible.
+
+After gaining experience, I was promoted within the website's ranking system, eventually becoming a junior DevOps engineer. Over the next 2-3 years, my tasks became increasingly complex, leading to a transition into cloud computing. For the past year and a half, I've been working primarily with Google Cloud, learning the basics and obtaining certifications in Oracle Cloud and Google Cloud. Alongside this, I started exploring AI and completed small related projects.
+
+I currently work at Accenture as a developer, where I get to work on innovative projects. On weekends and off days, I continue to work on AI and cloud-based projects for fun.
+
+I have created a similar project like this before where I created my chatbot, using tools like Streamlit but this one seems more sophisticated.
