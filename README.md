@@ -10,8 +10,13 @@ Utilizes LlamaIndex for efficient data retrieval and indexing.
 Provides an interactive front-end for user interaction with the application.
 
 ## Workings
+### Query Engine
+ Query engines act like translators between you and your data. They take your request (like a search or question) and translate it into a language the data source understands. Then, they grab the info, clean it up, and deliver it back to you in a user-friendly way. This makes it easier and faster to find what you need in databases, websites, or other data sources.
 ![Query Engine](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/fdc6a7f0-87bf-4a9f-bcfc-611336743803)
 
+### Vector Embeddings: Words as Positions!
+
+Imagine words like "king" and "queen" living close together in a special space. That's vector embeddings! Each data point (word, image, etc.) gets a unique position based on meaning, allowing machines to grasp connections between them. This helps with tasks like recommendations or understanding text.
 ![Vector Embeddings 1](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/219e7b4e-267f-491c-ac14-2ff66ace8c99)
 
 ![Vector Embeddings 2](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/c286b15d-2fa6-4f56-a731-613c27893a87)
