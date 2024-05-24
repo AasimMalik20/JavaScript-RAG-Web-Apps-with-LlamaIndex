@@ -17,14 +17,15 @@ Provides an interactive front-end for user interaction with the application.
 ![Vector Embeddings 2](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/c286b15d-2fa6-4f56-a731-613c27893a87)
 
 ## Outputs
-### L1 Output
+### L1 Output:
 ![L1 Output](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/9856847d-28f3-4dda-8892-627c6f687fde)
 
-### L2 Output
+### L2 Output:
 ![L2 Output](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/c1ac96ae-90fa-49c2-9f19-ff47f71f80c0)
 
-### L1 Outputs
+### L3 Outputs:
 ![L3 Output 1](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/e9f88f5f-32eb-4c37-b1d7-e42d135533c9)
+
 ![L3 Output 2](https://github.com/AasimMalik20/JavaScript-RAG-Web-Apps-with-LlamaIndex/assets/68051104/22e36d12-757d-4843-bbaa-6c08068bba19)
 
 
